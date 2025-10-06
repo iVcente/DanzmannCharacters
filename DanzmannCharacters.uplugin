@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "DanzmannCharacters",
-	"Description": "A collection of characters -- meshes, materials, animations and any other related assets.",
+	"Description": "A collection of characters -- their meshes, materials, animations and any other related assets.",
 	"Category": "Danzmann",
 	"CreatedBy": "Vicente Danzmann",
 	"CreatedByURL": "https://github.com/iVcente",
