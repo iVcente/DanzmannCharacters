@@ -1,9 +1,5 @@
-# Plugin Name
-Brief description and introduction...
+# DanzmannCharacters
+A collection of characters -- their meshes, materials, animations and any other related assets. The following characters are part of the collection:
+* Mannequin.
 
-## Usage Example
-> Make sure you have added the `X` module to your project's `Build.cs` file. Also, enable `X` in your `.uproject` file.
-Usage examples and explanations...
-
----
-Additional links and observations...
+> Make sure to enable `DanzmannCharacters` in your `.uproject` file.
